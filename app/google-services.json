@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "560533588247",
+    "firebase_url": "https://mediaapp-ba43d.firebaseio.com",
+    "project_id": "mediaapp-ba43d",
+    "storage_bucket": "mediaapp-ba43d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560533588247:android:01d5a2a96d1c2aa2078f52",
+        "android_client_info": {
+          "package_name": "com.allauddin.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560533588247-n6c43f75s5ur31fn5mdgl0rgclrgmp5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allauddin.myapplication",
+            "certificate_hash": "d8cfe7c79a14e0761d6b7b166c848932b091cdc5"
+          }
+        },
+        {
+          "client_id": "560533588247-s3f5lrkugjvqlfbs4b20k30ifigen371.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD532mvYY1vF50ghurhUq-Ha2s8PHV7Mtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560533588247-s3f5lrkugjvqlfbs4b20k30ifigen371.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
